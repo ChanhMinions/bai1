@@ -1,0 +1,12 @@
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.csprojAssemblyReference.cache
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.Form1.resources
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.Properties.Resources.resources
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.csproj.GenerateResource.cache
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.csproj.CoreCompileInputs.cache
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\bin\Debug\QuanLyGiaoVien.exe.config
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\bin\Debug\QuanLyGiaoVien.exe
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\bin\Debug\QuanLyGiaoVien.pdb
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.danhsachgiaovien.resources
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.exe
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.pdb
+C:\Users\admid\Documents\QuanLyGiaoVien\QuanLyGiaoVien\obj\Debug\QuanLyGiaoVien.thongtingiaovien.resources
